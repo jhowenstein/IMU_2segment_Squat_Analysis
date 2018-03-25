@@ -5,7 +5,7 @@ One sensor is located on the user's trunk (similar location to a heart rate moni
 This analysis script visualized the orientations and motions of the two primary segments in the squatting motion.
 Weightlifting and squatting are primarily planar motions and thus the analysis was calculated in two-dimensions from the sagittal view.
 
-Because weightlifting is a closed system with a known force (bar weight + acceleration) at the end of the chain, inverse dynamics can be estimated.
+Because weightlifting is a closed system with a known force (bar weight + acceleration) at the end of the chain, with some reasonable assumptions, inverse dynamics can be estimated.
 
 Given the kinetic calculations, segment orientiations, subject parameters (height/weight), and the mass of the bar, a joint power analysis and segment power analysis was able to be calculated.
 
